@@ -1,4 +1,5 @@
 # Finance-and-Business
+Source: Alexander Hagmann, Financial Intelligence by Karen Berman and Joe Knight
 Demonstration of use of Python to perform financial analysis and calculations including but not limited to statistical analysis, correlation, regression and time series modeling.
 The notebooks are based on the Python for Business and Finance Course by Alexander Hagmann on Udemy, with some modifications. 
 The topics covered include : 
